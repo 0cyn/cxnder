@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**KritantaDev/kritantadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  nice to see you ~
+  <br>
+  <strong>
+    <a href="https://twitter.com/arm64e">twitter</a> | 
+    <a href="https://krit.me/">website</a> | 
+    @krit#0443 
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+use [dragon](https://github.com/DragonBuild/dragon)
+
+`bash <(curl -sL dr.krit.me)`
+
+---
+
+https://xkcd.com/1629/
+
+[my license](https://github.com/KritantaDev/LICENSE/blob/main/LICENSE)
