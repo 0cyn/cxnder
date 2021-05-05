@@ -14,7 +14,7 @@
 
 use [dragon](https://github.com/DragonBuild/dragon)
 
-`bash <(curl -sL dr.krit.me)`
+`pip3 install dragon`
 
 ---
 
