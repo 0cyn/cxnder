@@ -12,12 +12,20 @@
 
 ---
 
-use [dragon](https://github.com/DragonBuild/dragon)
+some of my more interesting stuff:
 
-`pip3 install dragon`
+[dragon](https://github.com/DragonBuild/dragon) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
+
+[ktool](https://github.com/kritantadev/ktool) is a multi-purpose tool for objc/machO library analysis and info-dumping. `pip3 install k2l`
+
+[iBootLoader](https://github.com/KritantaDev/iBootLoader) is a **WIP** IDA plugin for loading SecureROM/iBoot dumps into IDA Pro (7.5+).
 
 ---
 
-https://xkcd.com/1629/
+potentially useful things:
 
-[my license](https://github.com/KritantaDev/LICENSE/blob/main/LICENSE)
+[iOS Toolchain for Arm64 WSL/Arm64 Linux](https://github.com/KritantaDev/llvm-project-1/releases/tag/10.0.0-arm64)
+
+[On-device NSLog Visible Overlay](https://github.com/KritantaDev/log-overlay)
+
+
