@@ -14,7 +14,7 @@
 
 some of my more interesting stuff:
 
-[dragon](https://github.com/DragonBuild/dragon) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
+[dragon](https://dragon.krit.me/) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
 
 [ktool](https://github.com/kritantadev/ktool) is a multi-purpose tool for objc/machO library analysis and info-dumping. `pip3 install k2l`
 
