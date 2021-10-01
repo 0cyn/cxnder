@@ -18,7 +18,7 @@ some of my more interesting stuff:
 
 [ktool](https://github.com/kritantadev/ktool) is a multi-purpose tool for objc/machO library analysis and info-dumping. `pip3 install k2l`
 
-[iBootLoader](https://github.com/KritantaDev/iBootLoader) is an IDA plugin for loading SecureROM/iBoot dumps into IDA Pro 7.0+
+[iBootLoader](https://github.com/KritantaDev/iBootLoader) is an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot dumps into IDA Pro 7.0+
 
 ---
 
