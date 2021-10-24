@@ -6,7 +6,7 @@
   <strong>
     <a href="https://twitter.com/arm64e">twitter</a> | 
     <a href="https://krit.me/">website</a> | 
-    @krit#0443 
+    @_kat#0443 
   </strong>
 </p>
 
