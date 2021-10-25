@@ -16,7 +16,7 @@ some of my more interesting stuff:
 
 [dragon](https://dragon.krit.me/) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
 
-[ktool](https://github.com/kritantadev/ktool) is a multi-purpose tool for objc/machO library analysis and info-dumping. `pip3 install k2l`
+[ktool](https://github.com/kritantadev/ktool) is a multi-purpose, 100% cross platform toolkit for MachO analysis and editing.
 
 [iBootLoader](https://github.com/KritantaDev/iBootLoader) is an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot dumps into IDA Pro 7.0+ (including encrypted im4ps!)
 
