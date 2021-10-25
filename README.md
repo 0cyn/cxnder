@@ -12,6 +12,8 @@
 
 ---
 
+### current projects:
+
 [ktool](https://github.com/kritantadev/ktool) is a multi-purpose, 100% cross platform toolkit for MachO analysis and editing. Now includes a command line GUI.
 
 It and all of its dependencies are pure python, so if you're working in a weird environment (Windows/Linux on Arm, etc.), it has absolutely no issues installing and running.
@@ -22,8 +24,6 @@ Things it can do:
 * Display a lot of valuable info about MachO binaries, including ones with mangled/corrupted load commands.
 
 `pip3 install k2l`
-
----
 
 [dragon](https://dragon.krit.me/) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
 
