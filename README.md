@@ -16,8 +16,6 @@
 
 [ktool](https://github.com/kritantadev/ktool) is a multi-purpose, 100% cross platform toolkit for MachO analysis and editing. Now includes a command line GUI.
 
-It and all of its dependencies are pure python, so if you're working in a weird environment (Windows/Linux on Arm, etc.), it has absolutely no issues installing and running.
-
 Things it can do:
 * Dump ObjC headers, classes, .tbds (a la class-dump, tapi, otool, etc.)
 * Insert/replace load commands, etc (a la optool, install-name-tool)
