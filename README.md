@@ -6,7 +6,7 @@
   <strong>
     <a href="https://twitter.com/arm64e">twitter</a> | 
     <a href="https://cynder.me/">website</a> | 
-    @_kat#0443 
+    @cynder#0443 
   </strong>
 </p>
 
