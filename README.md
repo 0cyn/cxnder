@@ -14,16 +14,9 @@
 
 ### current projects:
 
-[ktool](https://github.com/cxnder/ktool) is a multi-purpose, 100% cross platform toolkit for MachO analysis and editing. Now includes a command line GUI.
+[ktool](https://github.com/cxnder/ktool) is a multi-purpose, 100% cross platform toolkit+library for MachO/ObjC dumping, analysis, and editing.
 
-Things it can do:
-* Browse and/or Hexdump Load Commands, Segments, etc via the GUI
-* Dump/Browse ObjC headers, classes, .tbds (a la class-dump, tapi, otool, etc.)
-* Insert/replace load commands, etc (a la optool, install-name-tool)
-* Display a lot of valuable info about MachO binaries, including ones with mangled/corrupted load commands.
-* Plenty more
-
-It's also a public, usable, python library, meaning you can go absolutely wild with it.
+It includes a cross-platform, hand-crafted TUI, and works on Windows, mobile devices, your browser, and plenty of other absurd places. 
 
 I've used it to create [sdk-builder](https://github.com/cxnder/sdk-builder) which automatically generates all of the iOS Header dumps for https://headers.cynder.me/ using github actions.
 
