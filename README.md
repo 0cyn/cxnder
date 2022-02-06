@@ -24,7 +24,7 @@ I've used it to create [sdk-builder](https://github.com/cxnder/sdk-builder) whic
 
 [dragon](https://dragon.krit.me/) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
 
-[IDA-iBoot](https://github.com/hack-different/IDA-iBoot) is an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot dumps into IDA Pro 7.0+ (including encrypted im4ps!). 
+[iBoot-IDA](https://github.com/hack-different/iBoot-IDA) is an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot dumps into IDA Pro 7.0+ (including encrypted im4ps!). 
 
 Formerly iBootLoader, it has been moved to the hack-different org. PRs very heavily appreciated, reach out to me on the hack-different discord if you need any help/guidance!
 
