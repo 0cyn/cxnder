@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<p align="left">
   nice to see you ~
   <br>
   <strong>
@@ -12,28 +12,12 @@
 
 ---
 
-### current projects:
+[ktool](https://github.com/cxnder/ktool) - 100% cross-platform MachO/ObjC TUI, CLI. dumps headers, can browse the entirety of MachO metadata, brews you coffee. 
 
-[ktool](https://github.com/cxnder/ktool) is a multi-purpose, 100% cross platform toolkit+library for MachO/ObjC dumping, analysis, and editing.
+[dragon](https://dragon.krit.me/) - is a build system and toolkit targeting iOS/macOS/et al. Featuring lightning-fast build times and a relatively painless experience.
 
-It includes a cross-platform, hand-crafted TUI, and works on Windows, mobile devices, your browser, and plenty of other absurd places. 
+[iBoot-IDA](https://github.com/hack-different/iBoot-IDA) - an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot/AVPBooter dumps into IDA Pro 7.0+
 
-I've used it to create [sdk-builder](https://github.com/cxnder/sdk-builder) which automatically generates all of the iOS Header dumps for https://headers.cynder.me/ using github actions.
+[hack-different/ipwndfu](https://github.com/hack-different/ipwndfu) - Fork of ipwndfu I and others are working on that maintains and improves the original codebase, and merges in forks/contributions made by the much wider community of researchers.
 
-`pip3 install k2l`
-
-[dragon](https://dragon.krit.me/) is a build system targeting iOS/macOS/etc, featuring lightning-fast build times. `pip3 install dragon`
-
-[iBoot-IDA](https://github.com/hack-different/iBoot-IDA) is an IDA plugin for loading both 32 and 64 bit SecureROM/iBoot dumps into IDA Pro 7.0+ (including encrypted im4ps!). 
-
-Formerly iBootLoader, it has been moved to the hack-different org. PRs very heavily appreciated, reach out to me on the hack-different discord if you need any help/guidance!
-
----
-
-potentially useful things:
-
-[iOS Toolchain for Arm64 WSL/Arm64 Linux](https://github.com/cxnder/llvm-project-1/releases/tag/10.0.0-arm64)
-
-[On-device NSLog Visible Overlay](https://github.com/cxnder/log-overlay)
-
-
+[headers.cynder.me](https://headers.cynder.me/) - Private + Public Headers and extracted DSC binaries for iOS 13-15
