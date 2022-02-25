@@ -12,7 +12,7 @@
 
 ---
 
-[ktool](https://github.com/cxnder/ktool) - 100% cross-platform MachO/ObjC TUI, CLI. dumps headers, can browse the entirety of MachO metadata, brews you coffee. 
+[ktool](https://github.com/cxnder/ktool) - 100% cross-platform MachO/ObjC TUI, CLI toolkit. dumps headers, can browse the entirety of MachO metadata, brews you coffee. 
 
 [dragon](https://dragon.krit.me/) - is a build system and toolkit targeting iOS/macOS/et al. Featuring lightning-fast build times and a relatively painless experience.
 
