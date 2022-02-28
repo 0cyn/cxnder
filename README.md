@@ -8,6 +8,8 @@
     <a href="https://cynder.me/">website</a> | 
     @cynder#0443 
   </strong>
+  <br>
+  support me: https://www.patreon.com/arm64e 
 </p>
 
 ---
