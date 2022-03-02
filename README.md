@@ -23,4 +23,4 @@
 
 [hack-different/ipwndfu](https://github.com/hack-different/ipwndfu) - Fork of ipwndfu I and others are working on that maintains and improves the original codebase, and merges in forks/contributions made by the much wider community of researchers.
 
-[headers.cynder.me](https://headers.cynder.me/) - Private + Public Headers and extracted DSC binaries for iOS 13-15
+[headers.cynder.me](https://headers.cynder.me/) - Private + Public Headers and extracted DSC binaries for iOS 13-15. Has syntax highlighting, diffing headers across versions, "logos" code generation if you're into that.
