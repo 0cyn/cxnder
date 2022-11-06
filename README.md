@@ -4,7 +4,7 @@
   nice to see you ~
   <br>
   <strong>
-    mastodon: @cynder@cynder.me | 
+    mastodon: <a href="https://cynder.me/">@cynder@cynder.me</a> | 
     discord: @cynder#0443 
   </strong>
   <br>
