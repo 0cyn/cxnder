@@ -4,9 +4,8 @@
   nice to see you ~
   <br>
   <strong>
-    <a href="https://twitter.com/arm64e">twitter</a> | 
-    <a href="https://cynder.me/">website</a> | 
-    @cynder#0443 
+    mastodon: @cynder@cynder.me | 
+    discord: @cynder#0443 
   </strong>
   <br>
   <br>
